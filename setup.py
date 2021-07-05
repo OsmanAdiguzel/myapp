@@ -11,7 +11,7 @@ setup(
       description="for test",
       py_modules=["functions","greet"],
       package_dir={"":"mypackage"},
-      url=""
+      url="",
       author="Osman Adiguzel",
       authot_email="o.adiguzel008@gmail.com"
       )
